@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm an AI Engineer   
+# AI Engineer   
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JUNO&fontSize=90)
 
@@ -39,7 +39,7 @@
 
 
 
-# BAEKJOON
+# 👨‍💻 BAEKJOON
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun0w7">
   
 </div>
