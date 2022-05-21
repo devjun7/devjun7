@@ -39,7 +39,7 @@
 
 
 
-# 👨‍💻 BAEKJOON
+# 👨‍💻 BAEKJOON Tier
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun0w7">
   
 </div>
