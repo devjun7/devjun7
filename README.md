@@ -26,7 +26,7 @@
 
 
 
-# 🦾Skills
+# 🦾 Skills
 ### Main Languages & Platforms
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=black"> <img src="https://img.shields.io/badge/NumPy-F37626?style=for-the-badge&logo=NumPy&logoColor=black"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=black"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=black">
 
