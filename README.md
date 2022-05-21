@@ -1,16 +1,47 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**JUNUbermensch/JUNUbermensch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm an AI Engineer   
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JUNO&fontSize=90)
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![JUNUbermensch's github stats](https://github-readme-stats.vercel.app/api?username=JUNUbermensch&show_icons=true)   
+
+# ✉️ Email ✉️
+#### wweriok@naver.com
+   
+# 📌 Studying & Studied 📌
+### Machine Learning & Deep Learning 
+ -> Computer Vision, NLP, Recommender System
+
+### Data Science
+
+### Algorithm
+
+### Mathematics & Statistics
+
+### Computer Science
+
+
+
+
+
+# 🦾Skills
+### Main Languages & Platforms
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=black"> <img src="https://img.shields.io/badge/NumPy-F37626?style=for-the-badge&logo=NumPy&logoColor=black"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=black"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=black"> <img src="https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=mac&logoColor=black">
+
+
+
+
+
+
+
+
+
+
+# BAEKJOON
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jun0w7">
+  
+</div>
