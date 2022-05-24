@@ -16,7 +16,7 @@
    
 # 📌 Studying & Studied 📌
 ### Machine Learning & Deep Learning 
- -> Computer Vision, NLP, Recommender System
+ -> Computer Vision, NLP
 
 ### Data Science
 
