@@ -15,7 +15,7 @@
 #### wweriok@naver.com
    
 # 📌 Studying & Studied 📌
-### Machine Learning & Deep Learning 
+### Deep Learning 
  -> Computer Vision, NLP
 
 ### Data Science
@@ -24,8 +24,9 @@
 
 ### Mathematics & Statistics
 
-### Computer Science
+### Data Structure
 
+### Software Engineering
 
 
 
