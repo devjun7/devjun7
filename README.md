@@ -19,7 +19,7 @@
  -> Computer Vision, NLP
 ### Machine Learning
   
-### EDA, Data Science 
+### EDA
  
 ### Data Science
 
