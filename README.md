@@ -36,7 +36,7 @@
 
 # 🦾 Skills
 ### Main Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=black"> <img src="https://img.shields.io/badge/TensorFlow-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=black"> <img src="https://camo.githubusercontent.com/7a5b0be4e9e7f84c9729c8a6cac39f94f9398d1982dfc58561ee4ddbff53f5cc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d54656e736f72466c6f7726636f6c6f723d464636463030266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d464646464646266c6162656c3d">
 ### Main Platforms
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=black"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=black">
 
