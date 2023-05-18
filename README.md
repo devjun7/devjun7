@@ -17,7 +17,10 @@
 # 📌 Studying & Studied 📌
 ### Deep Learning 
  -> Computer Vision, NLP
-
+### Machine Learning
+  
+### EDA, Data Science 
+ 
 ### Data Science
 
 ### Algorithm
