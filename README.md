@@ -19,6 +19,14 @@
  -> Computer Vision, NLP
 ### Machine Learning
   
+### Web Scraping
+  
+### SQL
+  
+### Flask, Django
+  
+### Spark
+  
 ### EDA
  
 ### Data Science
