@@ -22,7 +22,9 @@
 ### Web Scraping
   
 ### SQL
-  
+
+### FastAPI, Pytorch, Pytorch Lightning, Tensorflow
+
 ### Flask, Django
   
 ### Spark
