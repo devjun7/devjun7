@@ -27,6 +27,10 @@
 
 ### Pytorch
 
+### Kubernetis
+
+### Linux
+
 ### Pytorch Lightning
 
 ### Tensorflow
