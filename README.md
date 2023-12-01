@@ -23,7 +23,13 @@
   
 ### SQL
 
-### FastAPI, Pytorch, Pytorch Lightning, Tensorflow
+### FastAPI
+
+### Pytorch
+
+### Pytorch Lightning
+
+### Tensorflow
 
 ### Flask, Django
   
